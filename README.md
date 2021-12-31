@@ -16,6 +16,7 @@ I’m currently learning Js, Reactjs and Nodejs.
 - HTML5
 - CSS3
 - Javascript
+- React.js
 
 #### Backend
 - Node.js
